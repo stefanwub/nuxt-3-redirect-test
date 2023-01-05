@@ -5,6 +5,7 @@
     <a href="instagram://media?id=17898918587641288">App 2</a><br>
     <a href="instagram://media?id=2925595453428879647">App 3</a><br>
     <a href="https://www.instagram.com/p/CiZzZB-IFEf/#Intent;package=com.instagram.android;scheme=https;end">Android</a><br>
-    <a href="intent://www.instagram.com/p/CiZzZB-IFEf/#Intent;package=com.instagram.android;scheme=https;end">Android v2</a>
+    <a href="intent://www.instagram.com/p/CiZzZB-IFEf/#Intent;package=com.instagram.android;scheme=https;end">Android v2</a><br>
+    <a href="instagram://media?id=2576380006704195301">Test reel</a><br>
   </div>
 </template>
